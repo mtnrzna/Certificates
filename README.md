@@ -18,6 +18,12 @@ Offered By <a href="https://www.coursera.org/deeplearning-ai">DeepLearning.AI</a
 Offered By <a href="https://www.coursera.org/umich">University of Michigan</a>
 
 ---
+## TensorFlow Developer Professional Certificate
+1. **Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning** - <a href="https://www.coursera.org/account/accomplishments/certificate/YWG644WZD9US">Certificate</a> - <a href="https://www.coursera.org/learn/introduction-tensorflow">Coursera</a>
+
+Offered By <a href="https://www.coursera.org/deeplearning-ai">DeepLearning.AI</a>
+
+---
 ## Data Science Math Skills
 -  **Data Science Math Skills** - <a href="https://www.coursera.org/account/accomplishments/certificate/9FYQW6RUJA6M">Certificate</a> - <a href="https://www.coursera.org/learn/datasciencemathskills">Coursera</a>
 
