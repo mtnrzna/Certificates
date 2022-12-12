@@ -35,3 +35,8 @@ Offered By <a href="https://www.coursera.org/duke">Duke University</a>
 
 Offered By <a href="https://www.coursera.org/ibm-skills-network">IBM Skills Network
 </a>
+
+2. **Tools for Data Science** - <a href="https://www.coursera.org/account/accomplishments/certificate/9RZFN9SKFGZH">Certificate</a> - <a href="https://www.coursera.org/learn/open-source-tools-for-data-science">Coursera</a>
+
+Offered By <a href="https://www.coursera.org/ibm-skills-network">IBM Skills Network
+</a>
