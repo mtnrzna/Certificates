@@ -21,6 +21,8 @@ Offered By <a href="https://www.coursera.org/umich">University of Michigan</a>
 ## TensorFlow Developer Professional Certificate
 1. **Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning** - <a href="https://www.coursera.org/account/accomplishments/certificate/YWG644WZD9US">Certificate</a> - <a href="https://www.coursera.org/learn/introduction-tensorflow">Coursera</a>
 
+2. **Convolutional Neural Networks in TensorFlow** - <a href="https://www.coursera.org/account/accomplishments/certificate/PXDEEXHLBZ6E">Certificate</a> - <a href="https://www.coursera.org/learn/convolutional-neural-networks-tensorflow">Coursera</a>
+
 Offered By <a href="https://www.coursera.org/deeplearning-ai">DeepLearning.AI</a>
 
 ---
