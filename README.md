@@ -35,10 +35,8 @@ Offered By <a href="https://www.coursera.org/duke">Duke University</a>
 ## Introduction to Data Science Specialization
 1. **What is Data Science?** - <a href="https://www.coursera.org/account/accomplishments/certificate/BKUJHKU9LFXF">Certificate</a> - <a href="https://www.coursera.org/learn/what-is-datascience?specialization=introduction-data-science">Coursera</a>
 
-Offered By <a href="https://www.coursera.org/ibm-skills-network">IBM Skills Network
-</a>
-
 2. **Tools for Data Science** - <a href="https://www.coursera.org/account/accomplishments/certificate/9RZFN9SKFGZH">Certificate</a> - <a href="https://www.coursera.org/learn/open-source-tools-for-data-science">Coursera</a>
 
-Offered By <a href="https://www.coursera.org/ibm-skills-network">IBM Skills Network
-</a>
+3. **Data Science Methodology** - <a href="https://www.coursera.org/account/accomplishments/certificate/MPCFZRV22AN6">Certificate</a> - <a href="https://www.coursera.org/learn/data-science-methodology">Coursera</a>
+
+Offered By <a href="https://www.coursera.org/ibm-skills-network">IBM Skills Network</a>
