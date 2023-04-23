@@ -43,10 +43,14 @@ Offered By <a href="https://www.coursera.org/stanford">Stanford University</a>
 
 ---
 ## Introduction to Data Science Specialization
-1. **What is Data Science?** - <a href="https://www.coursera.org/account/accomplishments/certificate/BKUJHKU9LFXF">Certificate</a> - <a href="https://www.coursera.org/learn/what-is-datascience?specialization=introduction-data-science">Course Catalog</a>
+1. **What is Data Science?** - <a href="https://www.coursera.org/account/accomplishments/certificate/BKUJHKU9LFXF">Certificate</a> - <a href="https://www.coursera.org/learn/what-is-datascience">Course Catalog</a>
 
 2. **Tools for Data Science** - <a href="https://www.coursera.org/account/accomplishments/certificate/9RZFN9SKFGZH">Certificate</a> - <a href="https://www.coursera.org/learn/open-source-tools-for-data-science">Course Catalog</a>
 
 3. **Data Science Methodology** - <a href="https://www.coursera.org/account/accomplishments/certificate/MPCFZRV22AN6">Certificate</a> - <a href="https://www.coursera.org/learn/data-science-methodology">Course Catalog</a>
+
+4. **Databases and SQL for Data Science with Python** - <a href="https://www.coursera.org/account/accomplishments/certificate/SFEZ2AAN4PQA">Certificate</a> - <a href="https://www.coursera.org/learn/sql-data-science">Course Catalog</a>
+
+**Introduction to Data Science Specialization** <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/FHMHR7XXSTEB"> Certificate</a> - <a href="https://www.coursera.org/specializations/introduction-data-science">Specialization Catalog</a>
 
 Offered By <a href="https://www.coursera.org/ibm-skills-network">IBM Skills Network</a>
