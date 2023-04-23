@@ -36,6 +36,12 @@ Offered By <a href="https://www.coursera.org/deeplearning-ai">DeepLearning.AI</a
 Offered By <a href="https://www.coursera.org/duke">Duke University</a>
 
 ---
+## Introduction to Statistics
+-  **Introduction to Statistics** - <a href="https://www.coursera.org/account/accomplishments/certificate/NUX2LM3QZBU9">Certificate</a> - <a href="https://www.coursera.org/learn/stanford-statistics">Course Catalog</a>
+
+Offered By <a href="https://www.coursera.org/stanford">Stanford University</a>
+
+---
 ## Introduction to Data Science Specialization
 1. **What is Data Science?** - <a href="https://www.coursera.org/account/accomplishments/certificate/BKUJHKU9LFXF">Certificate</a> - <a href="https://www.coursera.org/learn/what-is-datascience?specialization=introduction-data-science">Course Catalog</a>
 
