@@ -29,7 +29,13 @@ Offered By <a href="https://www.coursera.org/umich">University of Michigan</a>
 
 Offered By <a href="https://www.coursera.org/deeplearning-ai">DeepLearning.AI</a>
 
+## AI for Medicine Specialization
+1. **AI for Medical Diagnosis** - <a href="https://www.coursera.org/account/accomplishments/certificate/HZ37DDCNWLRZ">Certificate</a> - <a href="https://www.coursera.org/learn/ai-for-medical-diagnosis">Course Catalog</a>
+
+Offered By <a href="https://www.coursera.org/deeplearning-ai">DeepLearning.AI</a>
+
 ---
+
 ## Data Science Math Skills
 -  **Data Science Math Skills** - <a href="https://www.coursera.org/account/accomplishments/certificate/9FYQW6RUJA6M">Certificate</a> - <a href="https://www.coursera.org/learn/datasciencemathskills">Course Catalog</a>
 
