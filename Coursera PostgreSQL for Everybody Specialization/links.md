@@ -4,4 +4,6 @@ Intermediate PostgreSQL: <a href="https://www.coursera.org/account/accomplishmen
 
 JSON and Natural Language Processing in PostgreSQL: <a href="https://www.coursera.org/account/accomplishments/certificate/VT9ZM5XZV9LW">https://www.coursera.org/account/accomplishments/certificate/VT9ZM5XZV9LW</a>
 
+Database Architecture, Scale, and NoSQL with Elasticsearch: <a href="https://www.coursera.org/account/accomplishments/certificate/UZACE2DQHXBZ">https://www.coursera.org/account/accomplishments/certificate/UZACE2DQHXBZ</a>
 
+PostgreSQL for Everybody Specialization: <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VS7KZ4LZVY8U">https://www.coursera.org/account/accomplishments/specialization/certificate/VS7KZ4LZVY8U</a>

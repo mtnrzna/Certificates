@@ -19,6 +19,10 @@ Offered By <a href="https://www.coursera.org/deeplearning-ai">DeepLearning.AI</a
 
 3. **JSON and Natural Language Processing in PostgreSQL** - <a href="https://www.coursera.org/account/accomplishments/certificate/VT9ZM5XZV9LW">Certificate</a> - <a href="https://www.coursera.org/learn/json-natural-language-processing-postgresql">Course Catalog</a>
 
+4. **Database Architecture, Scale, and NoSQL with Elasticsearch** - <a href="https://www.coursera.org/account/accomplishments/certificate/UZACE2DQHXBZ">Certificate</a> - <a href="https://www.coursera.org/learn/database-architecture-scale-nosql-elasticsearch-postgresql">Course Catalog</a>
+
+**PostgreSQL for Everybody Specialization** <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/VS7KZ4LZVY8U"> Certificate</a> - <a href="https://www.coursera.org/specializations/postgresql-for-everybody">Specialization Catalog</a>
+
 Offered By <a href="https://www.coursera.org/umich">University of Michigan</a>
 
 ---
@@ -29,13 +33,13 @@ Offered By <a href="https://www.coursera.org/umich">University of Michigan</a>
 
 Offered By <a href="https://www.coursera.org/deeplearning-ai">DeepLearning.AI</a>
 
+---
 ## AI for Medicine Specialization
 1. **AI for Medical Diagnosis** - <a href="https://www.coursera.org/account/accomplishments/certificate/HZ37DDCNWLRZ">Certificate</a> - <a href="https://www.coursera.org/learn/ai-for-medical-diagnosis">Course Catalog</a>
 
 Offered By <a href="https://www.coursera.org/deeplearning-ai">DeepLearning.AI</a>
 
 ---
-
 ## Data Science Math Skills
 -  **Data Science Math Skills** - <a href="https://www.coursera.org/account/accomplishments/certificate/9FYQW6RUJA6M">Certificate</a> - <a href="https://www.coursera.org/learn/datasciencemathskills">Course Catalog</a>
 
