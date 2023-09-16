@@ -31,6 +31,8 @@ Offered By <a href="https://www.coursera.org/umich">University of Michigan</a>
 
 2. **Convolutional Neural Networks in TensorFlow** - <a href="https://www.coursera.org/account/accomplishments/certificate/PXDEEXHLBZ6E">Certificate</a> - <a href="https://www.coursera.org/learn/convolutional-neural-networks-tensorflow">Course Catalog</a>
 
+3. **Natural Language Processing in TensorFlow** - <a href="https://www.coursera.org/account/accomplishments/certificate/Y9V3D3E9L2TN">Certificate</a> - <a href="https://www.coursera.org/learn/natural-language-processing-tensorflow">Course Catalog</a>
+
 Offered By <a href="https://www.coursera.org/deeplearning-ai">DeepLearning.AI</a>
 
 ---
