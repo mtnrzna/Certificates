@@ -1,5 +1,11 @@
 # CERTIFICATES
 
+## Machine Learning Specialization
+1. **Supervised Machine Learning: Regression and Classification** - <a href="https://www.coursera.org/account/accomplishments/certificate/UXGQ7AZQE4E7">Certificate</a> - <a href="https://www.coursera.org/learn/machine-learning">Course Catalog</a>
+
+Offered By <a href="https://www.coursera.org/stanford">Stanford University</a> & <a href="https://www.coursera.org/deeplearning-ai">DeepLearning.AI</a>
+
+---
 ## Deep Learning Specialization
 1. **Neural Networks and Deep Learning** - <a href="https://www.coursera.org/account/accomplishments/certificate/3BTASUCCTGR2">Certificate</a> - <a href="https://www.coursera.org/learn/neural-networks-deep-learning">Course Catalog</a>
 
