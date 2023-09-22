@@ -15,6 +15,10 @@ Offered By <a href="https://www.coursera.org/stanford">Stanford University</a> &
 
 4. **Convolutional Neural Networks** - <a href="https://www.coursera.org/account/accomplishments/certificate/VQRUGUH6ZNE2">Certificate</a> - <a href="https://www.coursera.org/learn/convolutional-neural-networks">Course Catalog</a>
 
+5. **Sequence Models** - <a href="https://www.coursera.org/account/accomplishments/certificate/SHBDTSD4CZA8">Certificate</a> - <a href="https://www.coursera.org/learn/nlp-sequence-models">Course Catalog</a>
+
+**Deep Learning Specialization** - <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/RYYLZ9U4MU5T">Certificate</a> - <a href="https://www.coursera.org/specializations/deep-learning">Specialization Catalog</a>
+
 Offered By <a href="https://www.coursera.org/deeplearning-ai">DeepLearning.AI</a>
 
 ---
