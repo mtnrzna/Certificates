@@ -3,6 +3,8 @@
 ## Machine Learning Specialization
 1. **Supervised Machine Learning: Regression and Classification** - <a href="https://www.coursera.org/account/accomplishments/certificate/UXGQ7AZQE4E7">Certificate</a> - <a href="https://www.coursera.org/learn/machine-learning">Course Catalog</a>
 
+2. **Advanced Learning Algorithms** - <a href="https://www.coursera.org/account/accomplishments/certificate/A4MYCHMQXTVX">Certificate</a> - <a href="https://www.coursera.org/learn/advanced-learning-algorithms">Course Catalog</a>
+
 Offered By <a href="https://www.coursera.org/stanford">Stanford University</a> & <a href="https://www.coursera.org/deeplearning-ai">DeepLearning.AI</a>
 
 ---
