@@ -45,6 +45,10 @@ Offered By <a href="https://www.coursera.org/umich">University of Michigan</a>
 
 3. **Natural Language Processing in TensorFlow** - <a href="https://www.coursera.org/account/accomplishments/certificate/Y9V3D3E9L2TN">Certificate</a> - <a href="https://www.coursera.org/learn/natural-language-processing-tensorflow">Course Catalog</a>
 
+4. **Sequences, Time Series and Prediction** - <a href="https://www.coursera.org/account/accomplishments/certificate/DGDDS9NDKNZA">Certificate</a> - <a href="https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction">Course Catalog</a>
+
+**TensorFlow Developer Professional Certificate** - <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/RDN8YWRHCDNJ">Certificate</a> - <a href="https://www.coursera.org/professional-certificates/tensorflow-in-practice">Professional Certificate Catalog</a>
+
 Offered By <a href="https://www.coursera.org/deeplearning-ai">DeepLearning.AI</a>
 
 ---
