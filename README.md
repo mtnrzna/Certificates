@@ -5,6 +5,10 @@
 
 2. **Advanced Learning Algorithms** - <a href="https://www.coursera.org/account/accomplishments/certificate/A4MYCHMQXTVX">Certificate</a> - <a href="https://www.coursera.org/learn/advanced-learning-algorithms">Course Catalog</a>
 
+3. **Unsupervised Learning, Recommenders, Reinforcement Learning** - <a href="https://www.coursera.org/account/accomplishments/certificate/XQWXXLV9RB2Y">Certificate</a> - <a href="https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning">Course Catalog</a>
+
+**Machine Learning Specialization** - <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/CRYXAPYMQAR8">Certificate</a> - <a href="https://www.coursera.org/specializations/machine-learning-introduction">Specialization Catalog</a>
+
 Offered By <a href="https://www.coursera.org/stanford">Stanford University</a> & <a href="https://www.coursera.org/deeplearning-ai">DeepLearning.AI</a>
 
 ---
